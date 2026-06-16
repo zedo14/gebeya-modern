@@ -1,0 +1,6 @@
+{
+  "name": "Gebeya Modern",
+  "description": "A premium modern Ethiopian marketplace featuring genuine cultural goods, clothing, and spices, with full Amharic & English bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
